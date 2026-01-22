@@ -27,7 +27,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927) |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C) ![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927) |
 | **Core Skills** | ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=google-cloud) ![Logic](https://img.shields.io/badge/-Programming%20Logic-05122A?style=flat) |
 | **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91) |
 | **Web Basics** | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3) ![JS](https://img.shields.io/badge/-JS-05122A?style=flat&logo=javascript) |
