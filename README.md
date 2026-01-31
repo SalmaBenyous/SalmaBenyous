@@ -37,5 +37,5 @@
 ### 📊 GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalmaBenyous&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img margin-left="20px" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalmaBenyous&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img margin-left="200px" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalmaBenyous&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
